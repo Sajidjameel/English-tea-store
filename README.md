@@ -28,7 +28,7 @@ This project highlights my expertise in developing feature-rich eCommerce soluti
 
 - **Fast Load Times**: Optimized website performance for fast loading speeds, improving user experience and reducing bounce rates.
 
-- **Admin Dashboard**: Developed an intuitive backend system for administrators to manage orders, product listings, and customer data efficiently.
+- **Admin Dashboard**: Developed an intuitive backend system for administrators to manage orders or  product listings, and customer data efficiently.
 
 ---
 
